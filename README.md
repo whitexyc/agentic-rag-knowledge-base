@@ -1,4 +1,4 @@
-# 熊艺诚个人网站 — Agentic RAG 知识库系统
+# 个人网站 — Agentic RAG 知识库系统
 
 > 全栈个人品牌网站：简历展示 + Agentic RAG 智能问答
 
